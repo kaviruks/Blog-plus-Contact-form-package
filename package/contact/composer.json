@@ -1,0 +1,19 @@
+{
+    "name": "kavinda/contact",
+    "description": "This will save contact details in to the database.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kavinda\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kavinda Rukshan",
+            "email": "kavinda.rukshan7@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
